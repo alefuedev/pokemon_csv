@@ -1,0 +1,810 @@
+English,Japanese,Chinese,French,Type,Attack
+Bulbasaur,フシギダネ,妙蛙种子,Bulbizarre,"Grass ,Poison",49
+Ivysaur,フシギソウ,妙蛙草,Herbizarre,"Grass ,Poison",62
+Venusaur,フシギバナ,妙蛙花,Florizarre,"Grass ,Poison",82
+Charmander,ヒトカゲ,小火龙,Salamèche,Fire,52
+Charmeleon,リザード,火恐龙,Reptincel,Fire,64
+Charizard,リザードン,喷火龙,Dracaufeu,"Fire ,Flying",84
+Squirtle,ゼニガメ,杰尼龟,Carapuce,Water,48
+Wartortle,カメール,卡咪龟,Carabaffe,Water,63
+Blastoise,カメックス,水箭龟,Tortank,Water,83
+Caterpie,キャタピー,绿毛虫,Chenipan,Bug,30
+Metapod,トランセル,铁甲蛹,Chrysacier,Bug,20
+Butterfree,バタフリー,巴大蝶,Papilusion,"Bug ,Flying",45
+Weedle,ビードル,独角虫,Aspicot,"Bug ,Poison",35
+Kakuna,コクーン,铁壳蛹,Coconfort,"Bug ,Poison",25
+Beedrill,スピアー,大针蜂,Dardargnan,"Bug ,Poison",90
+Pidgey,ポッポ,波波,Roucool,"Normal ,Flying",45
+Pidgeotto,ピジョン,比比鸟,Roucoups,"Normal ,Flying",60
+Pidgeot,ピジョット,大比鸟,Roucarnage,"Normal ,Flying",80
+Rattata,コラッタ,小拉达,Rattata,Normal,56
+Raticate,ラッタ,拉达,Rattatac,Normal,81
+Spearow,オニスズメ,烈雀,Piafabec,"Normal ,Flying",60
+Fearow,オニドリル,大嘴雀,Rapasdepic,"Normal ,Flying",90
+Ekans,アーボ,阿柏蛇,Abo,Poison,60
+Arbok,アーボック,阿柏怪,Arbok,Poison,95
+Pikachu,ピカチュウ,皮卡丘,Pikachu,Electric,55
+Raichu,ライチュウ,雷丘,Raichu,Electric,90
+Sandshrew,サンド,穿山鼠,Sabelette,Ground,75
+Sandslash,サンドパン,穿山王,Sablaireau,Ground,100
+Nidoran♀,ニドラン♀,尼多兰,Nidoran♀,Poison,47
+Nidorina,ニドリーナ,尼多娜,Nidorina,Poison,62
+Nidoqueen,ニドクイン,尼多后,Nidoqueen,"Poison ,Ground",92
+Nidoran♂,ニドラン♂,尼多朗,Nidoran♂,Poison,57
+Nidorino,ニドリーノ,尼多力诺,Nidorino,Poison,72
+Nidoking,ニドキング,尼多王,Nidoking,"Poison ,Ground",102
+Clefairy,ピッピ,皮皮,Mélofée,Fairy,45
+Clefable,ピクシー,皮可西,Mélodelfe,Fairy,70
+Vulpix,ロコン,六尾,Goupix,Fire,41
+Ninetales,キュウコン,九尾,Feunard,Fire,76
+Jigglypuff,プリン,胖丁,Rondoudou,"Normal ,Fairy",45
+Wigglytuff,プクリン,胖可丁,Grodoudou,"Normal ,Fairy",70
+Zubat,ズバット,超音蝠,Nosferapti,"Poison ,Flying",45
+Golbat,ゴルバット,大嘴蝠,Nosferalto,"Poison ,Flying",80
+Oddish,ナゾノクサ,走路草,Mystherbe,"Grass ,Poison",50
+Gloom,クサイハナ,臭臭花,Ortide,"Grass ,Poison",65
+Vileplume,ラフレシア,霸王花,Rafflesia,"Grass ,Poison",80
+Paras,パラス,派拉斯,Paras,"Bug ,Grass",70
+Parasect,パラセクト,派拉斯特,Parasect,"Bug ,Grass",95
+Venonat,コンパン,毛球,Mimitoss,"Bug ,Poison",55
+Venomoth,モルフォン,摩鲁蛾,Aéromite,"Bug ,Poison",65
+Diglett,ディグダ,地鼠,Taupiqueur,Ground,55
+Dugtrio,ダグトリオ,三地鼠,Triopikeur,Ground,100
+Meowth,ニャース,喵喵,Miaouss,Normal,45
+Persian,ペルシアン,猫老大,Persian,Normal,70
+Psyduck,コダック,可达鸭,Psykokwak,Water,52
+Golduck,ゴルダック,哥达鸭,Akwakwak,Water,82
+Mankey,マンキー,猴怪,Férosinge,Fighting,80
+Primeape,オコリザル,火暴猴,Colossinge,Fighting,105
+Growlithe,ガーディ,卡蒂狗,Caninos,Fire,70
+Arcanine,ウインディ,风速狗,Arcanin,Fire,110
+Poliwag,ニョロモ,蚊香蝌蚪,Ptitard,Water,50
+Poliwhirl,ニョロゾ,蚊香君,Têtarte,Water,65
+Poliwrath,ニョロボン,蚊香泳士,Tartard,"Water ,Fighting",95
+Abra,ケーシィ,凯西,Abra,Psychic,20
+Kadabra,ユンゲラー,勇基拉,Kadabra,Psychic,35
+Alakazam,フーディン,胡地,Alakazam,Psychic,50
+Machop,ワンリキー,腕力,Machoc,Fighting,80
+Machoke,ゴーリキー,豪力,Machopeur,Fighting,100
+Machamp,カイリキー,怪力,Mackogneur,Fighting,130
+Bellsprout,マダツボミ,喇叭芽,Chétiflor,"Grass ,Poison",75
+Weepinbell,ウツドン,口呆花,Boustiflor,"Grass ,Poison",90
+Victreebel,ウツボット,大食花,Empiflor,"Grass ,Poison",105
+Tentacool,メノクラゲ,玛瑙水母,Tentacool,"Water ,Poison",40
+Tentacruel,ドククラゲ,毒刺水母,Tentacruel,"Water ,Poison",70
+Geodude,イシツブテ,小拳石,Racaillou,"Rock ,Ground",80
+Graveler,ゴローン,隆隆石,Gravalanch,"Rock ,Ground",95
+Golem,ゴローニャ,隆隆岩,Grolem,"Rock ,Ground",120
+Ponyta,ポニータ,小火马,Ponyta,Fire,85
+Rapidash,ギャロップ,烈焰马,Galopa,Fire,100
+Slowpoke,ヤドン,呆呆兽,Ramoloss,"Water ,Psychic",65
+Slowbro,ヤドラン,呆壳兽,Flagadoss,"Water ,Psychic",75
+Magnemite,コイル,小磁怪,Magnéti,"Electric ,Steel",35
+Magneton,レアコイル,三合一磁怪,Magnéton,"Electric ,Steel",60
+Farfetch'd,カモネギ,大葱鸭,Canarticho,"Normal ,Flying",90
+Doduo,ドードー,嘟嘟,Doduo,"Normal ,Flying",85
+Dodrio,ドードリオ,嘟嘟利,Dodrio,"Normal ,Flying",110
+Seel,パウワウ,小海狮,Otaria,Water,45
+Dewgong,ジュゴン,白海狮,Lamantine,"Water ,Ice",70
+Grimer,ベトベター,臭泥,Tadmorv,Poison,80
+Muk,ベトベトン,臭臭泥,Grotadmorv,Poison,105
+Shellder,シェルダー,大舌贝,Kokiyas,Water,65
+Cloyster,パルシェン,刺甲贝,Crustabri,"Water ,Ice",95
+Gastly,ゴース,鬼斯,Fantominus,"Ghost ,Poison",35
+Haunter,ゴースト,鬼斯通,Spectrum,"Ghost ,Poison",50
+Gengar,ゲンガー,耿鬼,Ectoplasma,"Ghost ,Poison",65
+Onix,イワーク,大岩蛇,Onix,"Rock ,Ground",45
+Drowzee,スリープ,催眠貘,Soporifik,Psychic,48
+Hypno,スリーパー,引梦貘人,Hypnomade,Psychic,73
+Krabby,クラブ,大钳蟹,Krabby,Water,105
+Kingler,キングラー,巨钳蟹,Krabboss,Water,130
+Voltorb,ビリリダマ,霹雳电球,Voltorbe,Electric,30
+Electrode,マルマイン,顽皮雷弹,Électrode,Electric,50
+Exeggcute,タマタマ,蛋蛋,Noeunoeuf,"Grass ,Psychic",40
+Exeggutor,ナッシー,椰蛋树,Noadkoko,"Grass ,Psychic",95
+Cubone,カラカラ,卡拉卡拉,Osselait,Ground,50
+Marowak,ガラガラ,嘎啦嘎啦,Ossatueur,Ground,80
+Hitmonlee,サワムラー,飞腿郎,Kicklee,Fighting,120
+Hitmonchan,エビワラー,快拳郎,Tygnon,Fighting,105
+Lickitung,ベロリンガ,大舌头,Excelangue,Normal,55
+Koffing,ドガース,瓦斯弹,Smogo,Poison,65
+Weezing,マタドガス,双弹瓦斯,Smogogo,Poison,90
+Rhyhorn,サイホーン,独角犀牛,Rhinocorne,"Ground ,Rock",85
+Rhydon,サイドン,钻角犀兽,Rhinoféros,"Ground ,Rock",130
+Chansey,ラッキー,吉利蛋,Leveinard,Normal,5
+Tangela,モンジャラ,蔓藤怪,Saquedeneu,Grass,55
+Kangaskhan,ガルーラ,袋兽,Kangourex,Normal,95
+Horsea,タッツー,墨海马,Hypotrempe,Water,40
+Seadra,シードラ,海刺龙,Hypocéan,Water,65
+Goldeen,トサキント,角金鱼,Poissirène,Water,67
+Seaking,アズマオウ,金鱼王,Poissoroy,Water,92
+Staryu,ヒトデマン,海星星,Stari,Water,45
+Starmie,スターミー,宝石海星,Staross,"Water ,Psychic",75
+Mr. Mime,バリヤード,魔墙人偶,M. Mime,"Psychic ,Fairy",45
+Scyther,ストライク,飞天螳螂,Insécateur,"Bug ,Flying",110
+Jynx,ルージュラ,迷唇姐,Lippoutou,"Ice ,Psychic",50
+Electabuzz,エレブー,电击兽,Élektek,Electric,83
+Magmar,ブーバー,鸭嘴火兽,Magmar,Fire,95
+Pinsir,カイロス,凯罗斯,Scarabrute,Bug,125
+Tauros,ケンタロス,肯泰罗,Tauros,Normal,100
+Magikarp,コイキング,鲤鱼王,Magicarpe,Water,10
+Gyarados,ギャラドス,暴鲤龙,Léviator,"Water ,Flying",125
+Lapras,ラプラス,拉普拉斯,Lokhlass,"Water ,Ice",85
+Ditto,メタモン,百变怪,Métamorph,Normal,48
+Eevee,イーブイ,伊布,Évoli,Normal,55
+Vaporeon,シャワーズ,水伊布,Aquali,Water,65
+Jolteon,サンダース,雷伊布,Voltali,Electric,65
+Flareon,ブースター,火伊布,Pyroli,Fire,130
+Porygon,ポリゴン,多边兽,Porygon,Normal,60
+Omanyte,オムナイト,菊石兽,Amonita,"Rock ,Water",40
+Omastar,オムスター,多刺菊石兽,Amonistar,"Rock ,Water",60
+Kabuto,カブト,化石盔,Kabuto,"Rock ,Water",80
+Kabutops,カブトプス,镰刀盔,Kabutops,"Rock ,Water",115
+Aerodactyl,プテラ,化石翼龙,Ptéra,"Rock ,Flying",105
+Snorlax,カビゴン,卡比兽,Ronflex,Normal,110
+Articuno,フリーザー,急冻鸟,Artikodin,"Ice ,Flying",85
+Zapdos,サンダー,闪电鸟,Électhor,"Electric ,Flying",90
+Moltres,ファイヤー,火焰鸟,Sulfura,"Fire ,Flying",100
+Dratini,ミニリュウ,迷你龙,Minidraco,Dragon,64
+Dragonair,ハクリュー,哈克龙,Draco,Dragon,84
+Dragonite,カイリュー,快龙,Dracolosse,"Dragon ,Flying",134
+Mewtwo,ミュウツー,超梦,Mewtwo,Psychic,110
+Mew,ミュウ,梦幻,Mew,Psychic,100
+Chikorita,チコリータ,菊草叶,Germignon,Grass,49
+Bayleef,ベイリーフ,月桂叶,Macronium,Grass,62
+Meganium,メガニウム,大竺葵,Méganium,Grass,82
+Cyndaquil,ヒノアラシ,火球鼠,Héricendre,Fire,52
+Quilava,マグマラシ,火岩鼠,Feurisson,Fire,64
+Typhlosion,バクフーン,火暴兽,Typhlosion,Fire,84
+Totodile,ワニノコ,小锯鳄,Kaiminus,Water,65
+Croconaw,アリゲイツ,蓝鳄,Crocrodil,Water,80
+Feraligatr,オーダイル,大力鳄,Aligatueur,Water,105
+Sentret,オタチ,尾立,Fouinette,Normal,46
+Furret,オオタチ,大尾立,Fouinar,Normal,76
+Hoothoot,ホーホー,咕咕,Hoothoot,"Normal ,Flying",30
+Noctowl,ヨルノズク,猫头夜鹰,Noarfang,"Normal ,Flying",50
+Ledyba,レディバ,芭瓢虫,Coxy,"Bug ,Flying",20
+Ledian,レディアン,安瓢虫,Coxyclaque,"Bug ,Flying",35
+Spinarak,イトマル,圆丝蛛,Mimigal,"Bug ,Poison",60
+Ariados,アリアドス,阿利多斯,Migalos,"Bug ,Poison",90
+Crobat,クロバット,叉字蝠,Nostenfer,"Poison ,Flying",90
+Chinchou,チョンチー,灯笼鱼,Loupio,"Water ,Electric",38
+Lanturn,ランターン,电灯怪,Lanturn,"Water ,Electric",58
+Pichu,ピチュー,皮丘,Pichu,Electric,40
+Cleffa,ピィ,皮宝宝,Mélo,Fairy,25
+Igglybuff,ププリン,宝宝丁,Toudoudou,"Normal ,Fairy",30
+Togepi,トゲピー,波克比,Togepi,Fairy,20
+Togetic,トゲチック,波克基古,Togetic,"Fairy ,Flying",40
+Natu,ネイティ,天然雀,Natu,"Psychic ,Flying",50
+Xatu,ネイティオ,天然鸟,Xatu,"Psychic ,Flying",75
+Mareep,メリープ,咩利羊,Wattouat,Electric,40
+Flaaffy,モココ,茸茸羊,Lainergie,Electric,55
+Ampharos,デンリュウ,电龙,Pharamp,Electric,75
+Bellossom,キレイハナ,美丽花,Joliflor,Grass,80
+Marill,マリル,玛力露,Marill,"Water ,Fairy",20
+Azumarill,マリルリ,玛力露丽,Azumarill,"Water ,Fairy",50
+Sudowoodo,ウソッキー,树才怪‎,Simularbre,Rock,100
+Politoed,ニョロトノ,蚊香蛙皇,Tarpaud,Water,75
+Hoppip,ハネッコ,毽子草,Granivol,"Grass ,Flying",35
+Skiploom,ポポッコ,毽子花,Floravol,"Grass ,Flying",45
+Jumpluff,ワタッコ,毽子棉,Cotovol,"Grass ,Flying",55
+Aipom,エイパム,长尾怪手,Capumain,Normal,70
+Sunkern,ヒマナッツ,向日种子,Tournegrin,Grass,30
+Sunflora,キマワリ,向日花怪,Héliatronc,Grass,75
+Yanma,ヤンヤンマ,蜻蜻蜓,Yanma,"Bug ,Flying",65
+Wooper,ウパー,乌波,Axoloto,"Water ,Ground",45
+Quagsire,ヌオー,沼王,Maraiste,"Water ,Ground",85
+Espeon,エーフィ,太阳伊布,Mentali,Psychic,65
+Umbreon,ブラッキー,月亮伊布,Noctali,Dark,65
+Murkrow,ヤミカラス,黑暗鸦,Cornèbre,"Dark ,Flying",85
+Slowking,ヤドキング,呆呆王,Roigada,"Water ,Psychic",75
+Misdreavus,ムウマ,梦妖,Feuforêve,Ghost,60
+Unown,アンノーン,未知图腾,Zarbi,Psychic,72
+Wobbuffet,ソーナンス,果然翁,Qulbutoké,Psychic,33
+Girafarig,キリンリキ,麒麟奇,Girafarig,"Normal ,Psychic",80
+Pineco,クヌギダマ,榛果球,Pomdepik,Bug,65
+Forretress,フォレトス,佛烈托斯,Foretress,"Bug ,Steel",90
+Dunsparce,ノコッチ,土龙弟弟,Insolourdo,Normal,70
+Gligar,グライガー,天蝎,Scorplane,"Ground ,Flying",75
+Steelix,ハガネール,大钢蛇,Steelix,"Steel ,Ground",85
+Snubbull,ブルー,布鲁,Snubbull,Fairy,80
+Granbull,グランブル,布鲁皇,Granbull,Fairy,120
+Qwilfish,ハリーセン,千针鱼,Qwilfish,"Water ,Poison",95
+Scizor,ハッサム,巨钳螳螂,Cizayox,"Bug ,Steel",130
+Shuckle,ツボツボ,壶壶,Caratroc,"Bug ,Rock",10
+Heracross,ヘラクロス,赫拉克罗斯,Scarhino,"Bug ,Fighting",125
+Sneasel,ニューラ,狃拉,Farfuret,"Dark ,Ice",95
+Teddiursa,ヒメグマ,熊宝宝,Teddiursa,Normal,80
+Ursaring,リングマ,圈圈熊,Ursaring,Normal,130
+Slugma,マグマッグ,熔岩虫,Limagma,Fire,40
+Magcargo,マグカルゴ,熔岩蜗牛,Volcaropod,"Fire ,Rock",50
+Swinub,ウリムー,小山猪,Marcacrin,"Ice ,Ground",50
+Piloswine,イノムー,长毛猪,Cochignon,"Ice ,Ground",100
+Corsola,サニーゴ,太阳珊瑚,Corayon,"Water ,Rock",55
+Remoraid,テッポウオ,铁炮鱼,Rémoraid,Water,65
+Octillery,オクタン,章鱼桶,Octillery,Water,105
+Delibird,デリバード,信使鸟,Cadoizo,"Ice ,Flying",55
+Mantine,マンタイン,巨翅飞鱼,Démanta,"Water ,Flying",40
+Skarmory,エアームド,盔甲鸟,Airmure,"Steel ,Flying",80
+Houndour,デルビル,戴鲁比,Malosse,"Dark ,Fire",60
+Houndoom,ヘルガー,黑鲁加,Démolosse,"Dark ,Fire",90
+Kingdra,キングドラ,刺龙王,Hyporoi,"Water ,Dragon",95
+Phanpy,ゴマゾウ,小小象,Phanpy,Ground,60
+Donphan,ドンファン,顿甲,Donphan,Ground,120
+Porygon2,ポリゴン２,多边兽Ⅱ,Porygon2,Normal,80
+Stantler,オドシシ,惊角鹿,Cerfrousse,Normal,95
+Smeargle,ドーブル,图图犬,Queulorior,Normal,20
+Tyrogue,バルキー,无畏小子,Debugant,Fighting,35
+Hitmontop,カポエラー,战舞郎,Kapoera,Fighting,95
+Smoochum,ムチュール,迷唇娃,Lippouti,"Ice ,Psychic",30
+Elekid,エレキッド,电击怪,Élekid,Electric,63
+Magby,ブビィ,鸭嘴宝宝,Magby,Fire,75
+Miltank,ミルタンク,大奶罐,Écrémeuh,Normal,80
+Blissey,ハピナス,幸福蛋,Leuphorie,Normal,10
+Raikou,ライコウ,雷公,Raikou,Electric,85
+Entei,エンテイ,炎帝,Entei,Fire,115
+Suicune,スイクン,水君,Suicune,Water,75
+Larvitar,ヨーギラス,幼基拉斯,Embrylex,"Rock ,Ground",64
+Pupitar,サナギラス,沙基拉斯,Ymphect,"Rock ,Ground",84
+Tyranitar,バンギラス,班基拉斯,Tyranocif,"Rock ,Dark",134
+Lugia,ルギア,洛奇亚,Lugia,"Psychic ,Flying",90
+Ho-Oh,ホウオウ,凤王,Ho-Oh,"Fire ,Flying",130
+Celebi,セレビィ,时拉比,Celebi,"Psychic ,Grass",100
+Treecko,キモリ,木守宫,Arcko,Grass,45
+Grovyle,ジュプトル,森林蜥蜴,Massko,Grass,65
+Sceptile,ジュカイン,蜥蜴王,Jungko,Grass,85
+Torchic,アチャモ,火稚鸡,Poussifeu,Fire,60
+Combusken,ワカシャモ,力壮鸡,Galifeu,"Fire ,Fighting",85
+Blaziken,バシャーモ,火焰鸡,Braségali,"Fire ,Fighting",120
+Mudkip,ミズゴロウ,水跃鱼,Gobou,Water,70
+Marshtomp,ヌマクロー,沼跃鱼,Flobio,"Water ,Ground",85
+Swampert,ラグラージ,巨沼怪,Laggron,"Water ,Ground",110
+Poochyena,ポチエナ,土狼犬,Medhyèna,Dark,55
+Mightyena,グラエナ,大狼犬,Grahyèna,Dark,90
+Zigzagoon,ジグザグマ,蛇纹熊,Zigzaton,Normal,30
+Linoone,マッスグマ,直冲熊,Linéon,Normal,70
+Wurmple,ケムッソ,刺尾虫,Chenipotte,Bug,45
+Silcoon,カラサリス,甲壳茧,Armulys,Bug,35
+Beautifly,アゲハント,狩猎凤蝶,Charmillon,"Bug ,Flying",70
+Cascoon,マユルド,盾甲茧,Blindalys,Bug,35
+Dustox,ドクケイル,毒粉蛾,Papinox,"Bug ,Poison",50
+Lotad,ハスボー,莲叶童子,Nénupiot,"Water ,Grass",30
+Lombre,ハスブレロ,莲帽小童,Lombre,"Water ,Grass",50
+Ludicolo,ルンパッパ,乐天河童,Ludicolo,"Water ,Grass",70
+Seedot,タネボー,橡实果,Grainipiot,Grass,40
+Nuzleaf,コノハナ,长鼻叶,Pifeuil,"Grass ,Dark",70
+Shiftry,ダーテング,狡猾天狗,Tengalice,"Grass ,Dark",100
+Taillow,スバメ,傲骨燕,Nirondelle,"Normal ,Flying",55
+Swellow,オオスバメ,大王燕,Hélédelle,"Normal ,Flying",85
+Wingull,キャモメ,长翅鸥,Goélise,"Water ,Flying",30
+Pelipper,ペリッパー,大嘴鸥,Bekipan,"Water ,Flying",50
+Ralts,ラルトス,拉鲁拉丝,Tarsal,"Psychic ,Fairy",25
+Kirlia,キルリア,奇鲁莉安,Kirlia,"Psychic ,Fairy",35
+Gardevoir,サーナイト,沙奈朵,Gardevoir,"Psychic ,Fairy",65
+Surskit,アメタマ,溜溜糖球,Arakdo,"Bug ,Water",30
+Masquerain,アメモース,雨翅蛾,Maskadra,"Bug ,Flying",60
+Shroomish,キノココ,蘑蘑菇,Balignon,Grass,40
+Breloom,キノガッサ,斗笠菇,Chapignon,"Grass ,Fighting",130
+Slakoth,ナマケロ,懒人獭,Parecool,Normal,60
+Vigoroth,ヤルキモノ,过动猿,Vigoroth,Normal,80
+Slaking,ケッキング,请假王,Monaflèmit,Normal,160
+Nincada,ツチニン,土居忍士,Ningale,"Bug ,Ground",45
+Ninjask,テッカニン,铁面忍者,Ninjask,"Bug ,Flying",90
+Shedinja,ヌケニン,脱壳忍者,Munja,"Bug ,Ghost",90
+Whismur,ゴニョニョ,咕妞妞,Chuchmur,Normal,51
+Loudred,ドゴーム,吼爆弹,Ramboum,Normal,71
+Exploud,バクオング,爆音怪,Brouhabam,Normal,91
+Makuhita,マクノシタ,幕下力士,Makuhita,Fighting,60
+Hariyama,ハリテヤマ,铁掌力士,Hariyama,Fighting,120
+Azurill,ルリリ,露力丽,Azurill,"Normal ,Fairy",20
+Nosepass,ノズパス,朝北鼻,Tarinor,Rock,45
+Skitty,エネコ,向尾喵,Skitty,Normal,45
+Delcatty,エネコロロ,优雅猫,Delcatty,Normal,65
+Sableye,ヤミラミ,勾魂眼,Ténéfix,"Dark ,Ghost",75
+Mawile,クチート,大嘴娃,Mysdibule,"Steel ,Fairy",85
+Aron,ココドラ,可可多拉,Galekid,"Steel ,Rock",70
+Lairon,コドラ,可多拉,Galegon,"Steel ,Rock",90
+Aggron,ボスゴドラ,波士可多拉,Galeking,"Steel ,Rock",110
+Meditite,アサナン,玛沙那,Méditikka,"Fighting ,Psychic",40
+Medicham,チャーレム,恰雷姆,Charmina,"Fighting ,Psychic",60
+Electrike,ラクライ,落雷兽,Dynavolt,Electric,45
+Manectric,ライボルト,雷电兽,Élecsprint,Electric,75
+Plusle,プラスル,正电拍拍,Posipi,Electric,50
+Minun,マイナン,负电拍拍,Négapi,Electric,40
+Volbeat,バルビート,电萤虫,Muciole,Bug,73
+Illumise,イルミーゼ,甜甜萤,Lumivole,Bug,47
+Roselia,ロゼリア,毒蔷薇,Rosélia,"Grass ,Poison",60
+Gulpin,ゴクリン,溶食兽,Gloupti,Poison,43
+Swalot,マルノーム,吞食兽,Avaltout,Poison,73
+Carvanha,キバニア,利牙鱼,Carvanha,"Water ,Dark",90
+Sharpedo,サメハダー,巨牙鲨,Sharpedo,"Water ,Dark",120
+Wailmer,ホエルコ,吼吼鲸,Wailmer,Water,70
+Wailord,ホエルオー,吼鲸王,Wailord,Water,90
+Numel,ドンメル,呆火驼,Chamallot,"Fire ,Ground",60
+Camerupt,バクーダ,喷火驼,Camérupt,"Fire ,Ground",100
+Torkoal,コータス,煤炭龟,Chartor,Fire,85
+Spoink,バネブー,跳跳猪,Spoink,Psychic,25
+Grumpig,ブーピッグ,噗噗猪,Groret,Psychic,45
+Spinda,パッチール,晃晃斑,Spinda,Normal,60
+Trapinch,ナックラー,大颚蚁,Kraknoix,Ground,100
+Vibrava,ビブラーバ,超音波幼虫,Vibraninf,"Ground ,Dragon",70
+Flygon,フライゴン,沙漠蜻蜓,Libégon,"Ground ,Dragon",100
+Cacnea,サボネア,刺球仙人掌,Cacnea,Grass,85
+Cacturne,ノクタス,梦歌仙人掌,Cacturne,"Grass ,Dark",115
+Swablu,チルット,青绵鸟,Tylton,"Normal ,Flying",40
+Altaria,チルタリス,七夕青鸟,Altaria,"Dragon ,Flying",70
+Zangoose,ザングース,猫鼬斩,Mangriff,Normal,115
+Seviper,ハブネーク,饭匙蛇,Séviper,Poison,100
+Lunatone,ルナトーン,月石,Séléroc,"Rock ,Psychic",55
+Solrock,ソルロック,太阳岩,Solaroc,"Rock ,Psychic",95
+Barboach,ドジョッチ,泥泥鳅,Barloche,"Water ,Ground",48
+Whiscash,ナマズン,鲶鱼王,Barbicha,"Water ,Ground",78
+Corphish,ヘイガニ,龙虾小兵,Écrapince,Water,80
+Crawdaunt,シザリガー,铁螯龙虾,Colhomard,"Water ,Dark",120
+Baltoy,ヤジロン,天秤偶,Balbuto,"Ground ,Psychic",40
+Claydol,ネンドール,念力土偶,Kaorine,"Ground ,Psychic",70
+Lileep,リリーラ,触手百合,Lilia,"Rock ,Grass",41
+Cradily,ユレイドル,摇篮百合,Vacilys,"Rock ,Grass",81
+Anorith,アノプス,太古羽虫,Anorith,"Rock ,Bug",95
+Armaldo,アーマルド,太古盔甲,Armaldo,"Rock ,Bug",125
+Feebas,ヒンバス,丑丑鱼,Barpau,Water,15
+Milotic,ミロカロス,美纳斯,Milobellus,Water,60
+Castform,ポワルン,飘浮泡泡,Morphéo,Normal,70
+Kecleon,カクレオン,变隐龙,Kecleon,Normal,90
+Shuppet,カゲボウズ,怨影娃娃,Polichombr,Ghost,75
+Banette,ジュペッタ,诅咒娃娃,Branette,Ghost,115
+Duskull,ヨマワル,夜巡灵,Skelénox,Ghost,40
+Dusclops,サマヨール,彷徨夜灵,Téraclope,Ghost,70
+Tropius,トロピウス,热带龙,Tropius,"Grass ,Flying",68
+Chimecho,チリーン,风铃铃,Éoko,Psychic,50
+Absol,アブソル,阿勃梭鲁,Absol,Dark,130
+Wynaut,ソーナノ,小果然,Okéoké,Psychic,23
+Snorunt,ユキワラシ,雪童子,Stalgamin,Ice,50
+Glalie,オニゴーリ,冰鬼护,Oniglali,Ice,80
+Spheal,タマザラシ,海豹球,Obalie,"Ice ,Water",40
+Sealeo,トドグラー,海魔狮,Phogleur,"Ice ,Water",60
+Walrein,トドゼルガ,帝牙海狮,Kaimorse,"Ice ,Water",80
+Clamperl,パールル,珍珠贝,Coquiperl,Water,64
+Huntail,ハンテール,猎斑鱼,Serpang,Water,104
+Gorebyss,サクラビス,樱花鱼,Rosabyss,Water,84
+Relicanth,ジーランス,古空棘鱼,Relicanth,"Water ,Rock",90
+Luvdisc,ラブカス,爱心鱼,Lovdisc,Water,30
+Bagon,タツベイ,宝贝龙,Draby,Dragon,75
+Shelgon,コモルー,甲壳龙,Drackhaus,Dragon,95
+Salamence,ボーマンダ,暴飞龙,Drattak,"Dragon ,Flying",135
+Beldum,ダンバル,铁哑铃,Terhal,"Steel ,Psychic",55
+Metang,メタング,金属怪,Métang,"Steel ,Psychic",75
+Metagross,メタグロス,巨金怪,Métalosse,"Steel ,Psychic",135
+Regirock,レジロック,雷吉洛克,Regirock,Rock,100
+Regice,レジアイス,雷吉艾斯,Regice,Ice,50
+Registeel,レジスチル,雷吉斯奇鲁,Registeel,Steel,75
+Latias,ラティアス,拉帝亚斯,Latias,"Dragon ,Psychic",80
+Latios,ラティオス,拉帝欧斯,Latios,"Dragon ,Psychic",90
+Kyogre,カイオーガ,盖欧卡,Kyogre,Water,100
+Groudon,グラードン,固拉多,Groudon,Ground,150
+Rayquaza,レックウザ,烈空坐,Rayquaza,"Dragon ,Flying",150
+Jirachi,ジラーチ,基拉祈,Jirachi,"Steel ,Psychic",100
+Deoxys,デオキシス,代欧奇希斯,Deoxys,Psychic,150
+Turtwig,ナエトル,草苗龟,Tortipouss,Grass,68
+Grotle,ハヤシガメ,树林龟,Boskara,Grass,89
+Torterra,ドダイトス,土台龟,Torterra,"Grass ,Ground",109
+Chimchar,ヒコザル,小火焰猴,Ouisticram,Fire,58
+Monferno,モウカザル,猛火猴,Chimpenfeu,"Fire ,Fighting",78
+Infernape,ゴウカザル,烈焰猴,Simiabraz,"Fire ,Fighting",104
+Piplup,ポッチャマ,波加曼,Tiplouf,Water,51
+Prinplup,ポッタイシ,波皇子,Prinplouf,Water,66
+Empoleon,エンペルト,帝王拿波,Pingoléon,"Water ,Steel",86
+Starly,ムックル,姆克儿,Étourmi,"Normal ,Flying",55
+Staravia,ムクバード,姆克鸟,Étourvol,"Normal ,Flying",75
+Staraptor,ムクホーク,姆克鹰,Étouraptor,"Normal ,Flying",120
+Bidoof,ビッパ,大牙狸,Keunotor,Normal,45
+Bibarel,ビーダル,大尾狸,Castorno,"Normal ,Water",85
+Kricketot,コロボーシ,圆法师,Crikzik,Bug,25
+Kricketune,コロトック,音箱蟀,Mélokrik,Bug,85
+Shinx,コリンク,小猫怪,Lixy,Electric,65
+Luxio,ルクシオ,勒克猫,Luxio,Electric,85
+Luxray,レントラー,伦琴猫,Luxray,Electric,120
+Budew,スボミー,含羞苞,Rozbouton,"Grass ,Poison",30
+Roserade,ロズレイド,罗丝雷朵,Roserade,"Grass ,Poison",70
+Cranidos,ズガイドス,头盖龙,Kranidos,Rock,125
+Rampardos,ラムパルド,战槌龙,Charkos,Rock,165
+Shieldon,タテトプス,盾甲龙,Dinoclier,"Rock ,Steel",42
+Bastiodon,トリデプス,护城龙,Bastiodon,"Rock ,Steel",52
+Burmy,ミノムッチ,结草儿,Cheniti,Bug,29
+Wormadam,ミノマダム,结草贵妇,Cheniselle,"Bug ,Grass",59
+Mothim,ガーメイル,绅士蛾,Papilord,"Bug ,Flying",94
+Combee,ミツハニー,三蜜蜂,Apitrini,"Bug ,Flying",30
+Vespiquen,ビークイン,蜂女王,Apireine,"Bug ,Flying",80
+Pachirisu,パチリス,帕奇利兹,Pachirisu,Electric,45
+Buizel,ブイゼル,泳圈鼬,Mustébouée,Water,65
+Floatzel,フローゼル,浮潜鼬,Mustéflott,Water,105
+Cherubi,チェリンボ,樱花宝,Ceribou,Grass,35
+Cherrim,チェリム,樱花儿,Ceriflor,Grass,60
+Shellos,カラナクシ,无壳海兔,Sancoki,Water,48
+Gastrodon,トリトドン,海兔兽,Tritosor,"Water ,Ground",83
+Ambipom,エテボース,双尾怪手,Capidextre,Normal,100
+Drifloon,フワンテ,飘飘球,Baudrive,"Ghost ,Flying",50
+Drifblim,フワライド,随风球,Grodrive,"Ghost ,Flying",80
+Buneary,ミミロル,卷卷耳,Laporeille,Normal,66
+Lopunny,ミミロップ,长耳兔,Lockpin,Normal,76
+Mismagius,ムウマージ,梦妖魔,Magirêve,Ghost,60
+Honchkrow,ドンカラス,乌鸦头头,Corboss,"Dark ,Flying",125
+Glameow,ニャルマー,魅力喵,Chaglam,Normal,55
+Purugly,ブニャット,东施喵,Chaffreux,Normal,82
+Chingling,リーシャン,铃铛响,Korillon,Psychic,30
+Stunky,スカンプー,臭鼬噗,Moufouette,"Poison ,Dark",63
+Skuntank,スカタンク,坦克臭鼬,Moufflair,"Poison ,Dark",93
+Bronzor,ドーミラー,铜镜怪,Archéomire,"Steel ,Psychic",24
+Bronzong,ドータクン,青铜钟,Archéodong,"Steel ,Psychic",89
+Bonsly,ウソハチ,盆才怪,Manzaï,Rock,80
+Mime Jr.,マネネ,魔尼尼,Mime Jr,"Psychic ,Fairy",25
+Happiny,ピンプク,小福蛋,Ptiravi,Normal,5
+Chatot,ペラップ,聒噪鸟,Pijako,"Normal ,Flying",65
+Spiritomb,ミカルゲ,花岩怪,Spiritomb,"Ghost ,Dark",92
+Gible,フカマル,圆陆鲨,Griknot,"Dragon ,Ground",70
+Gabite,ガバイト,尖牙陆鲨,Carmache,"Dragon ,Ground",90
+Garchomp,ガブリアス,烈咬陆鲨,Carchacrok,"Dragon ,Ground",130
+Munchlax,ゴンベ,小卡比兽,Goinfrex,Normal,85
+Riolu,リオル,利欧路,Riolu,Fighting,70
+Lucario,ルカリオ,路卡利欧,Lucario,"Fighting ,Steel",110
+Hippopotas,ヒポポタス,沙河马,Hippopotas,Ground,72
+Hippowdon,カバルドン,河马兽,Hippodocus,Ground,112
+Skorupi,スコルピ,钳尾蝎,Rapion,"Poison ,Bug",50
+Drapion,ドラピオン,龙王蝎,Drascore,"Poison ,Dark",90
+Croagunk,グレッグル,不良蛙,Cradopaud,"Poison ,Fighting",61
+Toxicroak,ドクロッグ,毒骷蛙,Coatox,"Poison ,Fighting",106
+Carnivine,マスキッパ,尖牙笼,Vortente,Grass,100
+Finneon,ケイコウオ,荧光鱼,Écayon,Water,49
+Lumineon,ネオラント,霓虹鱼,Luminéon,Water,69
+Mantyke,タマンタ,小球飞鱼,Babimanta,"Water ,Flying",20
+Snover,ユキカブリ,雪笠怪,Blizzi,"Grass ,Ice",62
+Abomasnow,ユキノオー,暴雪王,Blizzaroi,"Grass ,Ice",92
+Weavile,マニューラ,玛狃拉,Dimoret,"Dark ,Ice",120
+Magnezone,ジバコイル,自爆磁怪,Magnézone,"Electric ,Steel",70
+Lickilicky,ベロベルト,大舌舔,Coudlangue,Normal,85
+Rhyperior,ドサイドン,超甲狂犀,Rhinastoc,"Ground ,Rock",140
+Tangrowth,モジャンボ,巨蔓藤,Bouldeneu,Grass,100
+Electivire,エレキブル,电击魔兽,Élekable,Electric,123
+Magmortar,ブーバーン,鸭嘴炎兽,Maganon,Fire,95
+Togekiss,トゲキッス,波克基斯,Togekiss,"Fairy ,Flying",50
+Yanmega,メガヤンマ,远古巨蜓,Yanmega,"Bug ,Flying",76
+Leafeon,リーフィア,叶伊布,Phyllali,Grass,110
+Glaceon,グレイシア,冰伊布,Givrali,Ice,60
+Gliscor,グライオン,天蝎王,Scorvol,"Ground ,Flying",95
+Mamoswine,マンムー,象牙猪,Mammochon,"Ice ,Ground",130
+Porygon-Z,ポリゴンＺ,多边兽Ｚ,Porygon-Z,Normal,80
+Gallade,エルレイド,艾路雷朵,Gallame,"Psychic ,Fighting",125
+Probopass,ダイノーズ,大朝北鼻,Tarinorme,"Rock ,Steel",55
+Dusknoir,ヨノワール,黑夜魔灵,Noctunoir,Ghost,100
+Froslass,ユキメノコ,雪妖女,Momartik,"Ice ,Ghost",80
+Rotom,ロトム,洛托姆,Motisma,"Electric ,Ghost",50
+Uxie,ユクシー,由克希,Créhelf,Psychic,75
+Mesprit,エムリット,艾姆利多,Créfollet,Psychic,105
+Azelf,アグノム,亚克诺姆,Créfadet,Psychic,125
+Dialga,ディアルガ,帝牙卢卡,Dialga,"Steel ,Dragon",120
+Palkia,パルキア,帕路奇亚,Palkia,"Water ,Dragon",120
+Heatran,ヒードラン,席多蓝恩,Heatran,"Fire ,Steel",90
+Regigigas,レジギガス,雷吉奇卡斯,Regigigas,Normal,160
+Giratina,ギラティナ,骑拉帝纳,Giratina,"Ghost ,Dragon",100
+Cresselia,クレセリア,克雷色利亚,Cresselia,Psychic,70
+Phione,フィオネ,霏欧纳,Phione,Water,80
+Manaphy,マナフィ,玛纳霏,Manaphy,Water,100
+Darkrai,ダークライ,达克莱伊,Darkrai,Dark,90
+Shaymin,シェイミ,谢米,Shaymin,Grass,100
+Arceus,アルセウス,阿尔宙斯,Arceus,Normal,120
+Victini,ビクティニ,比克提尼,Victini,"Psychic ,Fire",100
+Snivy,ツタージャ,藤藤蛇,Vipélierre,Grass,45
+Servine,ジャノビー,青藤蛇,Lianaja,Grass,60
+Serperior,ジャローダ,君主蛇,Majaspic,Grass,75
+Tepig,ポカブ,暖暖猪,Gruikui,Fire,63
+Pignite,チャオブー,炒炒猪,Grotichon,"Fire ,Fighting",93
+Emboar,エンブオー,炎武王,Roitiflam,"Fire ,Fighting",123
+Oshawott,ミジュマル,水水獭,Moustillon,Water,55
+Dewott,フタチマル,双刃丸,Mateloutre,Water,75
+Samurott,ダイケンキ,大剑鬼,Clamiral,Water,100
+Patrat,ミネズミ,探探鼠,Ratentif,Normal,55
+Watchog,ミルホッグ,步哨鼠,Miradar,Normal,85
+Lillipup,ヨーテリー,小约克,Ponchiot,Normal,60
+Herdier,ハーデリア,哈约克,Ponchien,Normal,80
+Stoutland,ムーランド,长毛狗,Mastouffe,Normal,110
+Purrloin,チョロネコ,扒手猫,Chacripan,Dark,50
+Liepard,レパルダス,酷豹,Léopardus,Dark,88
+Pansage,ヤナップ,花椰猴,Feuillajou,Grass,53
+Simisage,ヤナッキー,花椰猿,Feuiloutan,Grass,98
+Pansear,バオップ,爆香猴,Flamajou,Fire,53
+Simisear,バオッキー,爆香猿,Flamoutan,Fire,98
+Panpour,ヒヤップ,冷水猴,Flotajou,Water,53
+Simipour,ヒヤッキー,冷水猿,Flotoutan,Water,98
+Munna,ムンナ,食梦梦,Munna,Psychic,25
+Musharna,ムシャーナ,梦梦蚀,Mushana,Psychic,55
+Pidove,マメパト,豆豆鸽,Poichigeon,"Normal ,Flying",55
+Tranquill,ハトーボー,咕咕鸽,Colombeau,"Normal ,Flying",77
+Unfezant,ケンホロウ,高傲雉鸡,Déflaisan,"Normal ,Flying",115
+Blitzle,シママ,斑斑马,Zébibron,Electric,60
+Zebstrika,ゼブライカ,雷电斑马,Zéblitz,Electric,100
+Roggenrola,ダンゴロ,石丸子,Nodulithe,Rock,75
+Boldore,ガントル,地幔岩,Géolithe,Rock,105
+Gigalith,ギガイアス,庞岩怪,Gigalithe,Rock,135
+Woobat,コロモリ,滚滚蝙蝠,Chovsourir,"Psychic ,Flying",45
+Swoobat,ココロモリ,心蝙蝠,Rhinolove,"Psychic ,Flying",57
+Drilbur,モグリュー,螺钉地鼠,Rototaupe,Ground,85
+Excadrill,ドリュウズ,龙头地鼠,Minotaupe,"Ground ,Steel",135
+Audino,タブンネ,差不多娃娃,Nanméouïe,Normal,60
+Timburr,ドッコラー,搬运小匠,Charpenti,Fighting,80
+Gurdurr,ドテッコツ,铁骨土人,Ouvrifier,Fighting,105
+Conkeldurr,ローブシン,修建老匠,Bétochef,Fighting,140
+Tympole,オタマロ,圆蝌蚪,Tritonde,Water,50
+Palpitoad,ガマガル,蓝蟾蜍,Batracné,"Water ,Ground",65
+Seismitoad,ガマゲロゲ,蟾蜍王,Crapustule,"Water ,Ground",95
+Throh,ナゲキ,投摔鬼,Judokrak,Fighting,100
+Sawk,ダゲキ,打击鬼,Karaclée,Fighting,125
+Sewaddle,クルミル,虫宝包,Larveyette,"Bug ,Grass",53
+Swadloon,クルマユ,宝包茧,Couverdure,"Bug ,Grass",63
+Leavanny,ハハコモリ,保姆虫,Manternel,"Bug ,Grass",103
+Venipede,フシデ,百足蜈蚣,Venipatte,"Bug ,Poison",45
+Whirlipede,ホイーガ,车轮球,Scobolide,"Bug ,Poison",55
+Scolipede,ペンドラー,蜈蚣王,Brutapode,"Bug ,Poison",100
+Cottonee,モンメン,木棉球,Doudouvet,"Grass ,Fairy",27
+Whimsicott,エルフーン,风妖精,Farfaduvet,"Grass ,Fairy",67
+Petilil,チュリネ,百合根娃娃,Chlorobule,Grass,35
+Lilligant,ドレディア,裙儿小姐,Fragilady,Grass,60
+Basculin,バスラオ,野蛮鲈鱼,Bargantua,Water,92
+Sandile,メグロコ,黑眼鳄,Mascaïman,"Ground ,Dark",72
+Krokorok,ワルビル,混混鳄,Escroco,"Ground ,Dark",82
+Krookodile,ワルビアル,流氓鳄,Crocorible,"Ground ,Dark",117
+Darumaka,ダルマッカ,火红不倒翁,Darumarond,Fire,90
+Darmanitan,ヒヒダルマ,达摩狒狒,Darumacho,Fire,140
+Maractus,マラカッチ,沙铃仙人掌,Maracachi,Grass,86
+Dwebble,イシズマイ,石居蟹,Crabicoque,"Bug ,Rock",65
+Crustle,イワパレス,岩殿居蟹,Crabaraque,"Bug ,Rock",105
+Scraggy,ズルッグ,滑滑小子,Baggiguane,"Dark ,Fighting",75
+Scrafty,ズルズキン,头巾混混,Baggaïd,"Dark ,Fighting",90
+Sigilyph,シンボラー,象征鸟,Cryptéro,"Psychic ,Flying",58
+Yamask,デスマス,哭哭面具,Tutafeh,Ghost,30
+Cofagrigus,デスカーン,死神棺,Tutankafer,Ghost,50
+Tirtouga,プロトーガ,原盖海龟,Carapagos,"Water ,Rock",78
+Carracosta,アバゴーラ,肋骨海龟,Mégapagos,"Water ,Rock",108
+Archen,アーケン,始祖小鸟,Arkéapti,"Rock ,Flying",112
+Archeops,アーケオス,始祖大鸟,Aéroptéryx,"Rock ,Flying",140
+Trubbish,ヤブクロン,破破袋,Miamiasme,Poison,50
+Garbodor,ダストダス,灰尘山,Miasmax,Poison,95
+Zorua,ゾロア,索罗亚,Zorua,Dark,65
+Zoroark,ゾロアーク,索罗亚克,Zoroark,Dark,105
+Minccino,チラーミィ,泡沫栗鼠,Chinchidou,Normal,50
+Cinccino,チラチーノ,奇诺栗鼠,Pashmilla,Normal,95
+Gothita,ゴチム,哥德宝宝,Scrutella,Psychic,30
+Gothorita,ゴチミル,哥德小童,Mesmérella,Psychic,45
+Gothitelle,ゴチルゼル,哥德小姐,Sidérella,Psychic,55
+Solosis,ユニラン,单卵细胞球,Nucléos,Psychic,30
+Duosion,ダブラン,双卵细胞球,Méios,Psychic,40
+Reuniclus,ランクルス,人造细胞卵,Symbios,Psychic,65
+Ducklett,コアルヒー,鸭宝宝,Couaneton,"Water ,Flying",44
+Swanna,スワンナ,舞天鹅,Lakmécygne,"Water ,Flying",87
+Vanillite,バニプッチ,迷你冰,Sorbébé,Ice,50
+Vanillish,バニリッチ,多多冰,Sorboul,Ice,65
+Vanilluxe,バイバニラ,双倍多多冰,Sorbouboul,Ice,95
+Deerling,シキジカ,四季鹿,Vivaldaim,"Normal ,Grass",60
+Sawsbuck,メブキジカ,萌芽鹿,Haydaim,"Normal ,Grass",100
+Emolga,エモンガ,电飞鼠,Emolga,"Electric ,Flying",75
+Karrablast,カブルモ,盖盖虫,Carabing,Bug,75
+Escavalier,シュバルゴ,骑士蜗牛,Lançargot,"Bug ,Steel",135
+Foongus,タマゲタケ,哎呀球菇,Trompignon,"Grass ,Poison",55
+Amoonguss,モロバレル,败露球菇,Gaulet,"Grass ,Poison",85
+Frillish,プルリル,轻飘飘,Viskuse,"Water ,Ghost",40
+Jellicent,ブルンゲル,胖嘟嘟,Moyade,"Water ,Ghost",60
+Alomomola,ママンボウ,保姆曼波,Mamanbo,Water,75
+Joltik,バチュル,电电虫,Statitik,"Bug ,Electric",47
+Galvantula,デンチュラ,电蜘蛛,Mygavolt,"Bug ,Electric",77
+Ferroseed,テッシード,种子铁球,Grindur,"Grass ,Steel",50
+Ferrothorn,ナットレイ,坚果哑铃,Noacier,"Grass ,Steel",94
+Klink,ギアル,齿轮儿,Tic,Steel,55
+Klang,ギギアル,齿轮组,Clic,Steel,80
+Klinklang,ギギギアル,齿轮怪,Cliticlic,Steel,100
+Tynamo,シビシラス,麻麻小鱼,Anchwatt,Electric,55
+Eelektrik,シビビール,麻麻鳗,Lampéroie,Electric,85
+Eelektross,シビルドン,麻麻鳗鱼王,Ohmassacre,Electric,115
+Elgyem,リグレー,小灰怪,Lewsor,Psychic,55
+Beheeyem,オーベム,大宇怪,Neitram,Psychic,75
+Litwick,ヒトモシ,烛光灵,Funécire,"Ghost ,Fire",30
+Lampent,ランプラー,灯火幽灵,Mélancolux,"Ghost ,Fire",40
+Chandelure,シャンデラ,水晶灯火灵,Lugulabre,"Ghost ,Fire",55
+Axew,キバゴ,牙牙,Coupenotte,Dragon,87
+Fraxure,オノンド,斧牙龙,Incisache,Dragon,117
+Haxorus,オノノクス,双斧战龙,Tranchodon,Dragon,147
+Cubchoo,クマシュン,喷嚏熊,Polarhume,Ice,70
+Beartic,ツンベアー,冻原熊,Polagriffe,Ice,130
+Cryogonal,フリージオ,几何雪花,Hexagel,Ice,50
+Shelmet,チョボマキ,小嘴蜗,Escargaume,Bug,40
+Accelgor,アギルダー,敏捷虫,Limaspeed,Bug,70
+Stunfisk,マッギョ,泥巴鱼,Limonde,"Ground ,Electric",66
+Mienfoo,コジョフー,功夫鼬,Kungfouine,Fighting,85
+Mienshao,コジョンド,师父鼬,Shaofouine,Fighting,125
+Druddigon,クリムガン,赤面龙,Drakkarmin,Dragon,120
+Golett,ゴビット,泥偶小人,Gringolem,"Ground ,Ghost",74
+Golurk,ゴルーグ,泥偶巨人,Golemastoc,"Ground ,Ghost",124
+Pawniard,コマタナ,驹刀小兵,Scalpion,"Dark ,Steel",85
+Bisharp,キリキザン,劈斩司令,Scalproie,"Dark ,Steel",125
+Bouffalant,バッフロン,爆炸头水牛,Frison,Normal,110
+Rufflet,ワシボン,毛头小鹰,Furaiglon,"Normal ,Flying",83
+Braviary,ウォーグル,勇士雄鹰,Gueriaigle,"Normal ,Flying",123
+Vullaby,バルチャイ,秃鹰丫头,Vostourno,"Dark ,Flying",55
+Mandibuzz,バルジーナ,秃鹰娜,Vaututrice,"Dark ,Flying",65
+Heatmor,クイタラン,熔蚁兽,Aflamanoir,Fire,97
+Durant,アイアント,铁蚁,Fermite,"Bug ,Steel",109
+Deino,モノズ,单首龙,Solochi,"Dark ,Dragon",65
+Zweilous,ジヘッド,双首暴龙,Diamat,"Dark ,Dragon",85
+Hydreigon,サザンドラ,三首恶龙,Trioxhydre,"Dark ,Dragon",105
+Larvesta,メラルバ,燃烧虫,Pyronille,"Bug ,Fire",85
+Volcarona,ウルガモス,火神蛾,Pyrax,"Bug ,Fire",60
+Cobalion,コバルオン,勾帕路翁,Cobaltium,"Steel ,Fighting",90
+Terrakion,テラキオン,代拉基翁,Terrakium,"Rock ,Fighting",129
+Virizion,ビリジオン,毕力吉翁,Viridium,"Grass ,Fighting",90
+Tornadus,トルネロス,龙卷云,Boréas,Flying,115
+Thundurus,ボルトロス,雷电云,Fulguris,"Electric ,Flying",115
+Reshiram,レシラム,莱希拉姆,Reshiram,"Dragon ,Fire",120
+Zekrom,ゼクロム,捷克罗姆,Zekrom,"Dragon ,Electric",150
+Landorus,ランドロス,土地云,Démétéros,"Ground ,Flying",125
+Kyurem,キュレム,酋雷姆,Kyurem,"Dragon ,Ice",130
+Keldeo,ケルディオ,凯路迪欧,Keldeo,"Water ,Fighting",72
+Meloetta,メロエッタ,美洛耶塔,Meloetta,"Normal ,Psychic",77
+Genesect,ゲノセクト,盖诺赛克特,Genesect,"Bug ,Steel",120
+Chespin,ハリマロン,哈力栗,Marisson,Grass,61
+Quilladin,ハリボーグ,胖胖哈力,Boguérisse,Grass,78
+Chesnaught,ブリガロン,布里卡隆,Blindépique,"Grass ,Fighting",107
+Fennekin,フォッコ,火狐狸,Feunnec,Fire,45
+Braixen,テールナー,长尾火狐,Roussil,Fire,59
+Delphox,マフォクシー,妖火红狐,Goupelin,"Fire ,Psychic",69
+Froakie,ケロマツ,呱呱泡蛙,Grenousse,Water,56
+Frogadier,ゲコガシラ,呱头蛙,Croâporal,Water,63
+Greninja,ゲッコウガ,甲贺忍蛙,Amphinobi,"Water ,Dark",95
+Bunnelby,ホルビー,掘掘兔,Sapereau,Normal,36
+Diggersby,ホルード,掘地兔,Excavarenne,"Normal ,Ground",56
+Fletchling,ヤヤコマ,小箭雀,Passerouge,"Normal ,Flying",50
+Fletchinder,ヒノヤコマ,火箭雀,Braisillon,"Fire ,Flying",73
+Talonflame,ファイアロー,烈箭鹰,Flambusard,"Fire ,Flying",81
+Scatterbug,コフキムシ,粉蝶虫,Lépidonille,Bug,35
+Spewpa,コフーライ,粉蝶蛹,Pérégrain,Bug,22
+Vivillon,ビビヨン,彩粉蝶,Prismillon,"Bug ,Flying",52
+Litleo,シシコ,小狮狮,Hélionceau,"Fire ,Normal",50
+Pyroar,カエンジシ,火炎狮,Némélios,"Fire ,Normal",68
+Flabébé,フラベベ,花蓓蓓,Flabébé,Fairy,38
+Floette,フラエッテ,花叶蒂,FLOETTE,Fairy,45
+Florges,フラージェス,花洁夫人,Florges,Fairy,65
+Skiddo,メェークル,坐骑小羊,Cabriolaine,Grass,65
+Gogoat,ゴーゴート,坐骑山羊,Chevroum,Grass,100
+Pancham,ヤンチャム,顽皮熊猫,Pandespiègle,Fighting,82
+Pangoro,ゴロンダ,流氓熊猫,Pandarbare,"Fighting ,Dark",124
+Furfrou,トリミアン,多丽米亚,Couafarel,Normal,80
+Espurr,ニャスパー,妙喵,Psystigri,Psychic,48
+Meowstic,ニャオニクス,超能妙喵,Mistigrix,Psychic,48
+Honedge,ヒトツキ,独剑鞘,Monorpale,"Steel ,Ghost",80
+Doublade,ニダンギル,双剑鞘,Dimoclès,"Steel ,Ghost",110
+Aegislash,ギルガルド,坚盾剑怪,Exagide,"Steel ,Ghost",50
+Spritzee,シュシュプ,粉香香,Fluvetin,Fairy,52
+Aromatisse,フレフワン,芳香精,Cocotine,Fairy,72
+Swirlix,ペロッパフ,绵绵泡芙,Sucroquin,Fairy,48
+Slurpuff,ペロリーム,胖甜妮,Cupcanaille,Fairy,80
+Inkay,マーイーカ,好啦鱿,Sepiatop,"Dark ,Psychic",54
+Malamar,カラマネロ,乌贼王,Sepiatroce,"Dark ,Psychic",92
+Binacle,カメテテ,龟脚脚,Opermine,"Rock ,Water",52
+Barbaracle,ガメノデス,龟足巨铠,Golgopathe,"Rock ,Water",105
+Skrelp,クズモー,垃垃藻,Venalgue,"Poison ,Water",60
+Dragalge,ドラミドロ,毒藻龙,Kravarech,"Poison ,Dragon",75
+Clauncher,ウデッポウ,铁臂枪虾,Flingouste,Water,53
+Clawitzer,ブロスター,钢炮臂虾,Gamblast,Water,73
+Helioptile,エリキテル,伞电蜥,Galvaran,"Electric ,Normal",38
+Heliolisk,エレザード,光电伞蜥,Iguolta,"Electric ,Normal",55
+Tyrunt,チゴラス,宝宝暴龙,Ptyranidur,"Rock ,Dragon",89
+Tyrantrum,ガチゴラス,怪颚龙,Rexillius,"Rock ,Dragon",121
+Amaura,アマルス,冰雪龙,Amagara,"Rock ,Ice",59
+Aurorus,アマルルガ,冰雪巨龙,Dragmara,"Rock ,Ice",77
+Sylveon,ニンフィア,仙子伊布,Nymphali,Fairy,65
+Hawlucha,ルチャブル,摔角鹰人,Brutalibré,"Fighting ,Flying",92
+Dedenne,デデンネ,咚咚鼠,DEDENNE,"Electric ,Fairy",58
+Carbink,メレシー,小碎钻,Strassie,"Rock ,Fairy",50
+Goomy,ヌメラ,黏黏宝,Mucuscule,Dragon,50
+Sliggoo,ヌメイル,黏美儿,Colimucus,Dragon,75
+Goodra,ヌメルゴン,黏美龙,Muplodocus,Dragon,100
+Klefki,クレッフィ,钥圈儿,Trousselin,"Steel ,Fairy",80
+Phantump,ボクレー,小木灵,Brocélôme,"Ghost ,Grass",70
+Trevenant,オーロット,朽木妖,Desséliande,"Ghost ,Grass",110
+Pumpkaboo,バケッチャ,南瓜精,Pitrouille,"Ghost ,Grass",66
+Gourgeist,パンプジン,南瓜怪人,Banshitrouye,"Ghost ,Grass",100
+Bergmite,カチコール,冰宝,Grelaçon,Ice,69
+Avalugg,クレベース,冰岩怪,Séracrawl,Ice,117
+Noibat,オンバット,嗡蝠,Sonistrelle,"Flying ,Dragon",30
+Noivern,オンバーン,音波龙,Bruyverne,"Flying ,Dragon",70
+Xerneas,ゼルネアス,哲尔尼亚斯,Xerneas,Fairy,131
+Yveltal,イベルタル,伊裴尔塔尔,Yveltal,"Dark ,Flying",131
+Zygarde,ジガルデ,基格尔德,Zygarde,"Dragon ,Ground",100
+Diancie,ディアンシー,蒂安希,Diancie,"Rock ,Fairy",100
+Hoopa,フーパ,胡帕,Hoopa,"Psychic ,Ghost",110
+Volcanion,ボルケニオン,波尔凯尼恩,Volcanion,"Fire ,Water",110
+Rowlet,モクロー,木木枭,Brindibou,"Grass ,Flying",55
+Dartrix,フクスロー,投羽枭,Efflèche,"Grass ,Flying",75
+Decidueye,ジュナイパー,狙射树枭,Archéduc,"Grass ,Ghost",107
+Litten,ニャビー,火斑喵,Flamiaou,Fire,65
+Torracat,ニャヒート,炎热喵,Matoufeu,Fire,85
+Incineroar,ガオガエン,炽焰咆哮虎,Félinferno,"Fire ,Dark",115
+Popplio,アシマリ,球球海狮,Otaquin,Water,54
+Brionne,オシャマリ,花漾海狮,Otarlette,Water,69
+Primarina,アシレーヌ,西狮海壬,Oratoria,"Water ,Fairy",74
+Pikipek,ツツケラ,小笃儿,Picassaut,"Normal ,Flying",75
+Trumbeak,ケララッパ,喇叭啄鸟,Piclairon,"Normal ,Flying",85
+Toucannon,ドデカバシ,铳嘴大鸟,Bazoucan,"Normal ,Flying",120
+Yungoos,ヤングース,猫鼬少,Manglouton,Normal,70
+Gumshoos,デカグース,猫鼬探长,Argouste,Normal,110
+Grubbin,アゴジムシ,强颚鸡母虫,Larvibule,Bug,62
+Charjabug,デンヂムシ,虫电宝,Chrysapile,"Bug ,Electric",82
+Vikavolt,クワガノン,锹农炮虫,Lucanon,"Bug ,Electric",70
+Crabrawler,マケンカニ,好胜蟹,Crabagarre,Fighting,82
+Crabominable,ケケンカニ,好胜毛蟹,Crabominable,"Fighting ,Ice",132
+Oricorio,オドリドリ,花舞鸟,Plumeline,"Fire ,Flying",70
+Cutiefly,アブリー,萌虻,Bombydou,"Bug ,Fairy",45
+Ribombee,アブリボン,蝶结萌虻,Rubombelle,"Bug ,Fairy",55
+Rockruff,イワンコ,岩狗狗,Rocabot,Rock,65
+Lycanroc,ルガルガン,鬃岩狼人,Lougaroc,Rock,115
+Wishiwashi,ヨワシ,弱丁鱼,Froussardine,Water,20
+Mareanie,ヒドイデ,好坏星,Vorastérie,"Poison ,Water",53
+Toxapex,ドヒドイデ,超坏星,Prédastérie,"Poison ,Water",63
+Mudbray,ドロバンコ,泥驴仔,Tiboudet,Ground,100
+Mudsdale,バンバドロ,重泥挽马,Bourrinos,Ground,125
+Dewpider,シズクモ,滴蛛,Araqua,"Water ,Bug",40
+Araquanid,オニシズクモ,滴蛛霸,Tarenbulle,"Water ,Bug",70
+Fomantis,カリキリ,伪螳草,Mimantis,Grass,55
+Lurantis,ラランテス,兰螳花,Floramantis,Grass,105
+Morelull,ネマシュ,睡睡菇,Spododo,"Grass ,Fairy",35
+Shiinotic,マシェード,灯罩夜菇,Lampignon,"Grass ,Fairy",45
+Salandit,ヤトウモリ,夜盗火蜥,Tritox,"Poison ,Fire",44
+Salazzle,エンニュート,焰后蜥,Malamandre,"Poison ,Fire",64
+Stufful,ヌイコグマ,童偶熊,Nounourson,"Normal ,Fighting",75
+Bewear,キテルグマ,穿着熊,Chelours,"Normal ,Fighting",125
+Bounsweet,アマカジ,甜竹竹,Croquine,Grass,30
+Steenee,アママイコ,甜舞妮,Candine,Grass,40
+Tsareena,アマージョ,甜冷美后,Sucreine,Grass,120
+Comfey,キュワワー,花疗环环,Guérilande,Fairy,52
+Oranguru,ヤレユータン,智挥猩,Gouroutan,"Normal ,Psychic",60
+Passimian,ナゲツケサル,投掷猴,Quartermac,Fighting,120
+Wimpod,コソクムシ,胆小虫,Sovkipou,"Bug ,Water",35
+Golisopod,グソクムシャ,具甲武者,Sarmuraï,"Bug ,Water",125
+Sandygast,スナバァ,沙丘娃,Bacabouh,"Ghost ,Ground",55
+Palossand,シロデスナ,噬沙堡爷,Trépassable,"Ghost ,Ground",75
+Pyukumuku,ナマコブシ,拳海参,Concombaffe,Water,60
+Type: Null,タイプ：ヌル,属性：空,Silvallié,Normal,95
+Silvally,シルヴァディ,银伴战兽,Météno,Normal,95
+Minior,メテノ,小陨星,Dodoala,"Rock ,Flying",60
+Komala,ネッコアラ,树枕尾熊,Boumata,Normal,115
+Turtonator,バクガメス,爆焰龟兽,Togedemaru,"Fire ,Dragon",78
+Togedemaru,トゲデマル,托戈德玛尔,Mimiqui,"Electric ,Steel",98
+Mimikyu,ミミッキュ,谜拟Ｑ,Denticrisse,"Ghost ,Fairy",90
+Bruxish,ハギギシリ,磨牙彩皮鱼,Draïeul,"Water ,Psychic",105
+Drampa,ジジーロン,老翁龙,Sinistrail,"Normal ,Dragon",60
+Dhelmise,ダダリン,破破舵轮,Bébécaille,"Ghost ,Grass",131
+Jangmo-o,ジャラコ,心鳞宝,Écaïd,Dragon,55
+Hakamo-o,ジャランゴ,鳞甲龙,Ékaïser,"Dragon ,Fighting",75
+Kommo-o,ジャラランガ,杖尾鳞甲龙,Tokorico,"Dragon ,Fighting",110
+Tapu Koko,カプ・コケコ,卡璞・鸣鸣,Tokopiyon,"Electric ,Fairy",115
+Tapu Lele,カプ・テテフ,卡璞・蝶蝶,Tokotoro,"Psychic ,Fairy",85
+Tapu Bulu,カプ・ブルル,卡璞・哞哞,Tokopisco,"Grass ,Fairy",130
+Tapu Fini,カプ・レヒレ,卡璞・鳍鳍,Cosmog,"Water ,Fairy",75
+Cosmog,コスモッグ,科斯莫古,Cosmovum,Psychic,29
+Cosmoem,コスモウム,科斯莫姆,Solgaleo,Psychic,29
+Solgaleo,ソルガレオ,索尔迦雷欧,Lunala,"Psychic ,Steel",137
+Lunala,ルナアーラ,露奈雅拉,Zéroïd,"Psychic ,Ghost",113
+Nihilego,ウツロイド,虚吾伊德,Mouscoto,"Rock ,Poison",53
+Buzzwole,マッシブーン,爆肌蚊,Cancrelove,"Bug ,Fighting",139
+Pheromosa,フェローチェ,费洛美螂,Câblifère,"Bug ,Fighting",137
+Xurkitree,デンジュモク,电束木,Bamboiselle,Electric,89
+Celesteela,テッカグヤ,铁火辉夜,Katagami,"Steel ,Flying",101
+Kartana,カミツルギ,纸御剑,Engloutyran,"Grass ,Steel",181
+Guzzlord,アクジキング,恶食大王,Necrozma,"Dark ,Dragon",101
+Necrozma,ネクロズマ,奈克洛兹玛,Magearna,Psychic,107
+Magearna,マギアナ,玛机雅娜,Marshadow,"Steel ,Fairy",95
+Marshadow,マーシャドー,玛夏多,Vémini,"Fighting ,Ghost",125
+Poipole,ベベノム,毒贝比,Mandrillon,Poison,73
+Naganadel,アーゴヨン,四颚针龙,Ama-Ama,"Poison ,Dragon",73
+Stakataka,ツンデツンデ,垒磊石,Pierroteknik,"Rock ,Steel",131
+Blacephalon,ズガドーン,砰头小丑,Zeraora,"Fire ,Ghost",127
+Zeraora,ゼラオラ,捷拉奥拉,Meltan,Electric,112
+Meltan,メルタン,美录坦,Melmetal,Steel,65
+Melmetal,メルメタル,美录梅塔,,Steel,143
